@@ -26,6 +26,25 @@
     </tr>
 </table>
 
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/19GHYun"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
+            <br />
+            <a href="https://github.com/19GHYun">윤경호</a>
+        </td>
+    </tr>
+    <tr height="50px">
+      <td>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcvting7" />
+            <br />
+            <a href="https://www.acmicpc.net/user/zxcvting7">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/zxcvting7">solved.ac</a>
+      </td>
+    </tr>
+</table>
+
 </br>
 
 ## 스터디 진행 기간 📅
