@@ -36,11 +36,11 @@
     </tr>
     <tr height="50px">
       <td>
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcvting7" />
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcvting1" />
             <br />
-            <a href="https://www.acmicpc.net/user/zxcvting7">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/zxcvting1">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/zxcvting7">solved.ac</a>
+            <a href="https://solved.ac/profile/zxcvting1">solved.ac</a>
       </td>
     </tr>
 </table>
