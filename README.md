@@ -24,6 +24,11 @@
             <br />
             <a href="https://github.com/jinno321">윤진노</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/hanwldn76"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/138774991?v=4"/></a>
+            <br />
+            <a href="https://github.com/hanwldn76">한지우</a>
+        </td>
     </tr>
     <tr height="50px">
       <td>
@@ -46,6 +51,13 @@
             <a href="https://www.acmicpc.net/user/jinno321">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/jinno321">solved.ac</a>
+      </td>
+      <td>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hanwldn76" />
+            <br />
+            <a href="https://www.acmicpc.net/user/hanwldn76">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/hanwldn76">solved.ac</a>
       </td>
     </tr>
 
