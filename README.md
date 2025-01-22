@@ -14,6 +14,16 @@
             <br />
             <a href="https://github.com/Brylimo">임채진</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/19GHYun"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/94778099?v=4"/></a>
+            <br />
+            <a href="https://github.com/19GHYun">윤경호</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/jinno321"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/97275777?v=4"/></a>
+            <br />
+            <a href="https://github.com/jinno321">윤진노</a>
+        </td>
     </tr>
     <tr height="50px">
       <td>
@@ -23,18 +33,6 @@
             <br />
             <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
       </td>
-    </tr>
-<table>
-  
-<table>
-    <tr height="140px">
-        <td align="center" width="130px">
-            <a href="https://github.com/19GHYun"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
-            <br />
-            <a href="https://github.com/19GHYun">윤경호</a>
-        </td>
-    </tr>
-    <tr height="50px">
       <td>
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zxcvting1" />
             <br />
@@ -42,8 +40,16 @@
             <br />
             <a href="https://solved.ac/profile/zxcvting1">solved.ac</a>
       </td>
+      <td>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinno321" />
+            <br />
+            <a href="https://www.acmicpc.net/user/jinno321">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/jinno321">solved.ac</a>
+      </td>
     </tr>
-</table>
+
+<table>
 
 </br>
 
