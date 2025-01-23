@@ -46,11 +46,11 @@
             <a href="https://solved.ac/profile/zxcvting1">solved.ac</a>
       </td>
       <td>
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinno321" />
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinno123" />
             <br />
-            <a href="https://www.acmicpc.net/user/jinno321">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/jinno123">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/jinno321">solved.ac</a>
+            <a href="https://solved.ac/profile/jinno123">solved.ac</a>
       </td>
       <td>
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hanwldn76" />
