@@ -103,4 +103,5 @@
 | 2주차    | 2025.02.06_1182_부분수열의_합  |  [부분수열의 합](https://www.acmicpc.net/problem/1182)  | 한지우  | 임채진, 윤진노, 윤경호  |  `진행 완료`  |
 | 3주차    | 2025.02.14_4014_활주로_건설  |  [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)  | X | 임채진, 윤진노, 윤경호, 한지우  |  `진행 완료`  |
 | 4주차    | 2025.02.23_1038_감소하는_수  |  [감소하는 수](https://www.acmicpc.net/problem/1038)  | 윤경호 | 임채진, 윤진노, 한지우  |  `진행 완료`  |
+| 5주차    | 2025.02.26_2504_괄호의_값  |  [괄호의 값](https://www.acmicpc.net/problem/2504)  | 임채진 | 윤경호, 윤진노, 한지우  |  `진행 완료`  |
 
