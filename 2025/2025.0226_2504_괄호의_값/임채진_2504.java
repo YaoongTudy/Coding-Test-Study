@@ -11,27 +11,27 @@ public class Main {
         int ans = 0;
         for (int i = 0; i < s.length(); i++) {
 
-            if (s.charAt(i) == '(') {
+            if (s.charAt(i) == '(') { // 여는 괄호면 곱셈
                 temp *= 2;
                 stack.push('(');
-            } else if (s.charAt(i) == '[') {
+            } else if (s.charAt(i) == '[') { // 여는 괄호면 곱셈
                 temp *= 3;
                 stack.push('[');
-            } else if (s.charAt(i) == ')') {
+            } else if (s.charAt(i) == ')') { // 닫는 괄호면 나눗셈
                 if (stack.isEmpty() || stack.peek() != '(') {
                     System.out.println(0);
                     System.exit(0);
-                } else if (i - 1 >= 0 && s.charAt(i - 1) == '(') {
+                } else if (i - 1 >= 0 && s.charAt(i - 1) == '(') { // ()이면 덧셈
                     ans += temp;
                 }
 
                 stack.pop();
                 temp /= 2;
-            } else if (s.charAt(i) == ']') {
+            } else if (s.charAt(i) == ']') { // 닫는 괄호면 나눗셈 
                 if (stack.isEmpty() || stack.peek() != '[') {
                     System.out.println(0);
                     System.exit(0);
-                } else if (i - 1 >= 0 && s.charAt(i - 1) == '[') {
+                } else if (i - 1 >= 0 && s.charAt(i - 1) == '[') { // []면 덧셈
                     ans += temp;
                 }
 
@@ -41,7 +41,7 @@ public class Main {
 
         }
 
-        if (!stack.isEmpty()) {
+        if (!stack.isEmpty()) { // 스택이 비어있다면 종료
             System.out.println(0);
             System.exit(0);
         }
