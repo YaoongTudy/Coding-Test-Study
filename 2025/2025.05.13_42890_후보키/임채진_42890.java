@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class 임채진_42890 {
     public int solution(String[][] relation) {
         int answer = 0;
         int n = relation.length; // 튜플 개수
